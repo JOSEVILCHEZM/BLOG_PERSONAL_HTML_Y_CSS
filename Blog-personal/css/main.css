@@ -6,3 +6,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
 
 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+  font-family: 'Roboto Mono', sans-serif ;
+  font-size: 400;
+}
+
+
+/* H  HEADER 
+=============================================*/
+
+.header{
+  width: 100%;
+  width: 140px; 
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: auto auto auto;
+}
+
+.social{
+  background-color: #e616e6;
+
+
+
+
+}
